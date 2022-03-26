@@ -40,3 +40,8 @@ https://github.com/KinGelaim/Presentations/blob/main/Unity/HungryCat/movie_004.m
 ![Screenshot RunningLittleWitch](RunningLittleWitch/RunningLittleWitch_2.png "Running Little Witch")
 ![Screenshot RunningLittleWitch](RunningLittleWitch/RunningLittleWitch_3.png "Running Little Witch")
 ![Screenshot RunningLittleWitch](RunningLittleWitch/RunningLittleWitch_4.png "Running Little Witch")
+
+---
+### Targem Test (C# Jun)
+![Screenshot TargemTest_1](TargemTest_1/58.gif "Targem Test")
+![Screenshot TargemTest_1](TargemTest_1/59.gif "Targem Test")
