@@ -45,3 +45,12 @@ https://user-images.githubusercontent.com/47106074/160246027-21bc4107-fa98-4091-
 ### Targem Test (C# Jun)
 ![Screenshot TargemTest_1](TargemTest_1/58.gif "Targem Test")
 ![Screenshot TargemTest_1](TargemTest_1/59.gif "Targem Test")
+
+---
+### Avega Games Test (Unity Jun)
+![Screenshot AvegaGamesTest_1](AvegaGamesTest_1/56.gif "Avega Games Test")
+![Screenshot AvegaGamesTest_1](AvegaGamesTest_1/57.gif "Avega Games Test")
+![Screenshot AvegaGamesTest_1](AvegaGamesTest_1/58.gif "Avega Games Test")
+![Screenshot AvegaGamesTest_1](AvegaGamesTest_1/59.gif "Avega Games Test")
+
+
